@@ -1,0 +1,14 @@
+{
+  "name": "rocketteam",
+  "version": "1.0.0",
+  "description": "task tracker",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts":{
+    "start": "node server.js"
+  },
+  "author": "RocketTeam",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
